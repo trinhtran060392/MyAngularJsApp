@@ -1,0 +1,7 @@
+logs/*
+!.gitkeep
+tmp
+.idea
+bower_components/
+*.log
+node_modules/
